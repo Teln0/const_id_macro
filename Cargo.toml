@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["teln0 <telnobynoyator@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
+homepage = "https://github.com/Teln0/const_id_macro"
+repository = "https://github.com/Teln0/const_id_macro"
+description = "Macro crate for const_id"
 
 [lib]
 proc-macro = true
