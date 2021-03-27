@@ -1,0 +1,13 @@
+[package]
+name = "const_id_macro"
+version = "0.1.0"
+authors = ["teln0 <telnobynoyator@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+quote = "1.0.9"
+proc-macro-hack = "0.5.19"
